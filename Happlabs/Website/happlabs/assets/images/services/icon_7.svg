@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.5" height="30.659" viewBox="0 0 29.5 30.659">
+  <g id="Group_5721" data-name="Group 5721" transform="translate(-6.7 -5)">
+    <rect id="Rectangle_1282" data-name="Rectangle 1282" width="4.088" height="1.635" transform="translate(26.73 5)" fill="#4aa49d"/>
+    <rect id="Rectangle_1283" data-name="Rectangle 1283" width="4.088" height="1.635" transform="translate(26.73 34.023)" fill="#4aa49d"/>
+    <rect id="Rectangle_1284" data-name="Rectangle 1284" width="4.088" height="1.635" transform="translate(20.667 34.023)" fill="#4aa49d"/>
+    <rect id="Rectangle_1285" data-name="Rectangle 1285" width="4.088" height="1.635" transform="translate(20.667 5)" fill="#4aa49d"/>
+    <path id="Path_7999" data-name="Path 7999" d="M84.767,5H83.2V6.635h1.567a.233.233,0,0,1,.238.238v1.6h1.635v-1.6A1.89,1.89,0,0,0,84.767,5Z" transform="translate(-50.44)" fill="#4aa49d"/>
+    <rect id="Rectangle_1286" data-name="Rectangle 1286" width="1.635" height="3.509" transform="translate(34.565 26.733)" fill="#4aa49d"/>
+    <path id="Path_8000" data-name="Path 8000" d="M85.005,86.4a.233.233,0,0,1-.238.238H83.2v1.635h1.567A1.89,1.89,0,0,0,86.641,86.4V84.8H85.005Z" transform="translate(-50.44 -52.616)" fill="#4aa49d"/>
+    <rect id="Rectangle_1287" data-name="Rectangle 1287" width="1.635" height="3.509" transform="translate(34.565 15.867)" fill="#4aa49d"/>
+    <rect id="Rectangle_1288" data-name="Rectangle 1288" width="1.635" height="3.509" transform="translate(34.565 21.317)" fill="#4aa49d"/>
+    <rect id="Rectangle_1289" data-name="Rectangle 1289" width="1.635" height="3.509" transform="translate(34.565 10.416)" fill="#4aa49d"/>
+    <path id="Path_8001" data-name="Path 8001" d="M29.421,18.217a.309.309,0,0,0-.238-.1h-1.5a.1.1,0,0,0-.068.17l1.226,1.226H17.294V6.635h1.431V5H8.574A1.89,1.89,0,0,0,6.7,6.874V33.785a1.89,1.89,0,0,0,1.874,1.874H18.725V34.023H17.294V21.147H28.808l-1.192,1.226a.1.1,0,0,0,.068.17h1.5a.309.309,0,0,0,.238-.1L31.465,20.4a.1.1,0,0,0,0-.136ZM15.659,34.023H8.574a.233.233,0,0,1-.238-.238V6.874a.233.233,0,0,1,.238-.238h7.085Z" fill="#4aa49d"/>
+  </g>
+</svg>
